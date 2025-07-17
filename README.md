@@ -70,7 +70,7 @@ Two machine learning models were trained and evaluated to classify emotional sta
 - Confusion Matrices and classification reports for both models are printed for detailed performance analysis.
 
 
-## ✅ RESULTS AND INFERENCES:
+## ✅ Result and Inference:
 Random Forest Classifier achieved an accuracy of 64% on the test data.
 Decision Tree Classifier achieved an accuracy of 55% on the test data.
 
