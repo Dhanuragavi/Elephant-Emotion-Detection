@@ -61,7 +61,7 @@ Two machine learning models were trained and evaluated to classify emotional sta
 
 
 
-## 📈 Visualization and output 
+## 📈 Visualization 
 
 - Time-Domain Plot: Displays both original and filtered waveforms for understanding noise reduction.
   
@@ -70,5 +70,17 @@ Two machine learning models were trained and evaluated to classify emotional sta
 - Confusion Matrices and classification reports for both models are printed for detailed performance analysis.
 
 
+## ✅ RESULTS AND INFERENCES:
+Random Forest Classifier achieved an accuracy of 64% on the test data.
+Decision Tree Classifier achieved an accuracy of 55% on the test data.
+
+The input audio was classified as:
+
+🔹 roar_rumble by Random Forest
+
+🔹 blast by Decision Tree
+
+## 🧠 Conclusion
+Future improvements can focus on deep learning integration and increasing the dataset size for better generalization and more accurate classification across all elephant vocal types.
 
 🐘 This project showcases the practical application of acoustic signal processing and machine learning in the field of wildlife monitoring. By analyzing the vocalizations of elephants, it offers a non-invasive and effective method for understanding their emotional states. The system serves as a digital tool that can assist veterinarians, conservationists, and forest officials in monitoring elephant well-being and behavior. Furthermore, it lays the groundwork for future advancements, such as the development of real-time emotion monitoring systems and the integration of more advanced deep learning models to enhance accuracy and scalability.
