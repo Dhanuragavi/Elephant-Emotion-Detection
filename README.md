@@ -70,15 +70,7 @@ Two machine learning models were trained and evaluated to classify emotional sta
 - Confusion Matrices and classification reports for both models are printed for detailed performance analysis.
 
 
-## ✅ Result and Inference:
-Random Forest Classifier achieved an accuracy of 64% on the test data.
-Decision Tree Classifier achieved an accuracy of 55% on the test data.
 
-The input audio was classified as:
-
-🔹 roar_rumble by Random Forest
-
-🔹 blast by Decision Tree
 
 ## 🧠 Conclusion
 Future improvements can focus on deep learning integration and increasing the dataset size for better generalization and more accurate classification across all elephant vocal types.
