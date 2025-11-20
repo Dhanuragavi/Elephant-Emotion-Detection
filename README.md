@@ -44,9 +44,9 @@ Acoustic features are extracted from the filtered audio:
 ## 🚀Machine Learning Models
 Two machine learning models were trained and evaluated to classify emotional states from extracted features:
 
-- Random Forest Classifier: A robust ensemble model using multiple decision trees. It achieved higher accuracy and better generalization by reducing overfitting. Final accuracy: 64%.
+- Random Forest Classifier: A robust ensemble model using multiple decision trees. It achieved higher accuracy and better generalization by reducing overfitting. 
 
-- Decision Tree Classifier: A simple, interpretable model that splits the data into decision paths. Although it performed slightly lower than Random Forest, it provided clear insight into decision-making. Final accuracy: 55%.
+- Decision Tree Classifier: A simple, interpretable model that splits the data into decision paths. Although it performed slightly lower than Random Forest, it provided clear insight into decision-making. 
 
 
 ## 📊 Evaluation and Performance Metrics 
@@ -74,5 +74,4 @@ Two machine learning models were trained and evaluated to classify emotional sta
 
 ## 🧠 Conclusion
 Future improvements can focus on deep learning integration and increasing the dataset size for better generalization and more accurate classification across all elephant vocal types.
-
-🐘 This project showcases the practical application of acoustic signal processing and machine learning in the field of wildlife monitoring. By analyzing the vocalizations of elephants, it offers a non-invasive and effective method for understanding their emotional states. The system serves as a digital tool that can assist veterinarians, conservationists, and forest officials in monitoring elephant well-being and behavior. Furthermore, it lays the groundwork for future advancements, such as the development of real-time emotion monitoring systems and the integration of more advanced deep learning models to enhance accuracy and scalability.
+This project showcases the practical application of acoustic signal processing and machine learning in the field of wildlife monitoring. By analyzing the vocalizations of elephants, it offers a non-invasive and effective method for understanding their emotional states. The system serves as a digital tool that can assist veterinarians, conservationists, and forest officials in monitoring elephant well-being and behavior. Furthermore, it lays the groundwork for future advancements, such as the development of real-time emotion monitoring systems and the integration of more advanced deep learning models to enhance accuracy and scalability.
